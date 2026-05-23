@@ -119,3 +119,5 @@ Response:
   "status": "success"
 }
 ```
+# Other
+Windows pwrshell API docs [here](https://github.com/empirePMT/KeyAuth-API/blob/main/windowsdocs.md)
