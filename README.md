@@ -19,7 +19,7 @@ git clone https://github.com/empirePMT/KeyAuth-API.git
 ```
 Then
 ```
-cd keyauth-fastapi
+cd KeyAuth-API
 ```
 Then
 ```
